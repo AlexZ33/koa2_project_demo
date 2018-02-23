@@ -1,0 +1,9 @@
+
+.gitignore
+.idea/
+node_modules/
+.DS_Store
+static/output/dist/
+static/output/upload/
+npm-debug.log
+npm-debug.log.*
